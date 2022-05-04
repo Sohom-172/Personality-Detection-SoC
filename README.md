@@ -1,4 +1,4 @@
-# Week-1
+# Week-2
 In this week we will primarily focus on linear regression.
 
 [This playlist](https://youtube.com/playlist?list=PLJs7lEb1U5pYnrI0Wn4mzPmppVqwERL_4) will help you in understanding about linear regression in one variable. Do speedrun through them.
