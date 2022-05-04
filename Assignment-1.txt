@@ -1,0 +1,30 @@
+The following are the problems to be solved using pandas and numpy:-
+
+1.Numpy:-
+	a.How to find common values between two arrays?
+	b.Consider two random array A and B, check if they are equal
+	c.How to compute ((A+B)*(-A/2)) in place (without copy)?
+	d.Consider a random 10x2 matrix representing cartesian coordinates, convert them to polar coordinates
+
+2.Pandas:-
+	a.How do you count how many unique rows a DataFrame has (i.e. ignore all rows that are duplicates)?	
+
+	b.Given a DataFrame of random numeric values:
+
+	df = pd.DataFrame(np.random.random(size=(5, 3))) # this is a 5x3 DataFrame of float values
+	how do you subtract the row mean from each element in the row?
+
+
+	c.A DataFrame has a column of groups 'grps' and and column of integer values 'vals':
+
+	df = pd.DataFrame({'grps': list('aaabbcaabcccbbc'), 
+                   'vals': [12,345,3,1,45,14,4,52,54,23,235,21,57,3,87]})
+	For each group, find the sum of the three greatest values. You should end up with the answer as follows:
+
+	grps
+	a    409
+	b    156
+	c    345	
+	
+take time to think on the problems and use any resources needed.
+Important: Please prepare a google doc where you write a brief explanation to your solution. This will be very helful for you as well as ease our process of evaluation.	
