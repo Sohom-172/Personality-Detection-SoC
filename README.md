@@ -10,4 +10,4 @@ Personally I found these 2 videos very descriptive and informative:
 
 *[What is Neural Network?](https://youtu.be/aircAruvnKk)
 
-*[How does Neural Networks learn?](https://youtu.be/aircAruvnKk)
+*[How does Neural Networks learn?](https://youtu.be/IHZwWFHWa-w)
