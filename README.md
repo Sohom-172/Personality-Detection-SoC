@@ -9,4 +9,5 @@ Examples of how to use the neural networks is provided in the jupyter notebook.
 Personally I found these 2 videos very descriptive and informative:
 
 *[What is Neural Network?](https://youtu.be/aircAruvnKk)
+
 *[How does Neural Networks learn?](https://youtu.be/aircAruvnKk)
